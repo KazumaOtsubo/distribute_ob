@@ -1,0 +1,4 @@
+distributerDAO\DistributerDao.class
+distributer\DleteServlet.class
+distributer\CheckServlet.class
+distributerDAO\Participant.class
